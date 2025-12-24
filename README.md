@@ -1,2 +1,2 @@
 # Physics_Notes
-This is just a place for me to post math and physics notes that helped me through my undergrad and PhD in theoretical physics. I try to make things as easy to follow as possible. Hopefully this helps someone someday.
+If you have ever wanted to dig in deeper ot the workings of the universe, if you have ever fallen for the liars and charlatans of pseudoscience, or if you are a student struggling to connect with concepts in your courses, this is the place for you.
